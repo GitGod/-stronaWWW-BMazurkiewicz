@@ -1,0 +1,150 @@
+body 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: brown;
+    background-color: white;
+	margin: 6mm;
+}
+
+#teren
+{
+width: 100%;
+}
+#container
+{
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+}
+#logoimg
+{
+float: left;
+ height: 80px;
+    background-image: url('grafika/ccc.png');
+    background-repeat: no-repeat;
+    text-align: center;
+ }
+#logo
+{
+float: left;
+min-height: 60px;
+background-color: black;
+width: 1040px;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+#but1
+
+{
+float :left;
+background-color: lightgreen;
+text-align: center;
+width: 180px;
+padding: 10px
+
+}
+#but2
+
+{
+float :left;
+background-color: lightgrey;
+text-align: center;
+width: 180px;
+padding: 10px
+}
+#but3
+
+{
+float :left;
+background-color: lightgreen;
+text-align: center;
+width: 180px;
+padding: 10px
+}
+#but4
+
+{
+float :left;
+background-color: lightgrey;
+text-align: center;
+width: 180px;
+padding: 10px
+}
+#but5
+{
+float :left;
+background-color: lightgreen;
+text-align: center;
+width: 180px;
+padding: 10px
+	}
+#but6
+{
+float :left;
+background-color: lightgrey;
+text-align: center;
+width: 180px;
+padding: 10px
+}
+
+
+
+
+
+
+#opisowo
+{
+clear: both;
+background-color: yellow;
+color: black;
+padding: 5px;
+text-align: center;
+}
+
+
+
+#srodek
+{
+float: left;
+padding: 20px;
+width: 1160px;
+min-height: 400px;
+background-color: lightblue;
+text-align: center;
+}
+#srodek2
+{
+float: left;
+padding: 20px;
+width: 1160px;
+min-height: 400px;
+background-color: lightblue;
+text-align: left;
+}
+#footer
+{
+clear: both;
+background-color: black;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+#menu{
+   text-align:left;
+}
+a:link {color:white; }     
+a:visited {color:white; }  
+a:active {color:white; }  
+.btn {
+  background: #FF0033; 
+  display: inline-block;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  line-height: 2.5em;
+  padding: 0 3em;
+  text-decoration: none;
+}
